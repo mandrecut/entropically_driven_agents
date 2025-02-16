@@ -1,2 +1,5 @@
-# entropically_driven_agents
-Entropically Driven Agents
+# Entropically Driven Agents
+
+Repository for the paper: "Entropically Driven Agents".
+
+
