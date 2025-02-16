@@ -2,4 +2,5 @@
 
 Repository for the paper: "Entropically Driven Agents".
 
-![alt text](http://fig.png)
+![Alt text](fig.png)
+
